@@ -1,6 +1,8 @@
+![image](https://i.ibb.co/Scx3zRM/Screenshot-4.png)
+
 # Clone do Netflix
 
-Este projeto tem como objetivo criar um clone do Netflix para o Github. Para isso, serão utilizadas as seguintes tecnologias e funcionalidades:
+Este projeto tem como objetivo criar um clone do Netflix para estudo. Para isso, serão utilizadas as seguintes tecnologias e funcionalidades:
 
 ## Environment, Typescript, NextJS Setup
 
